@@ -24,7 +24,6 @@ FULL_UNET_MODULES = [
     "Block",  # Anima
     "PatchEmbed",  # Anima
     "TimestepEmbedding",  # Anima
-    "FinalLayer",  # Anima
     "LLMAdapterTransformerBlock",  # Anima
 ]
 
@@ -81,7 +80,6 @@ BUILTIN_PRESET_CONFIGS = {
             "Block",  # Anima
             "PatchEmbed",  # Anima
             "TimestepEmbedding",  # Anima
-            "FinalLayer",  # Anima
             "LLMAdapterTransformerBlock",  # Anima
         ],
         unet_target_name=[
@@ -111,7 +109,6 @@ BUILTIN_PRESET_CONFIGS = {
             "Block",  # Anima
             "PatchEmbed",  # Anima
             "TimestepEmbedding",  # Anima
-            "FinalLayer",  # Anima
             "LLMAdapterTransformerBlock",  # Anima
         ],
         unet_target_name=[],
@@ -163,7 +160,6 @@ BUILTIN_PRESET_CONFIGS = {
             "Block",  # Anima
             "PatchEmbed",  # Anima
             "TimestepEmbedding",  # Anima
-            "FinalLayer",  # Anima
             "LLMAdapterTransformerBlock",  # Anima
         ],
         unet_target_name=[],
