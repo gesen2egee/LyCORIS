@@ -263,7 +263,6 @@ class LycorisNetworkKohya(LycorisNetwork):
         "Block",  # Anima
         "PatchEmbed",  # Anima
         "TimestepEmbedding",  # Anima
-        "FinalLayer",  # Anima
         "LLMAdapterTransformerBlock",  # Anima
     ]
     UNET_TARGET_REPLACE_NAME = [
